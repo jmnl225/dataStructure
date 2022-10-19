@@ -1,4 +1,4 @@
-import { Node, LinkedList } from '/.LinkedList';
+import { Node, LinkedList } from '/Users/user/Desktop/study/dataStructure/LinkedList.mjs';
 
 let node1 = new Node(1);
 let node2 = new Node(2);
