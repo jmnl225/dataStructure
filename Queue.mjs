@@ -6,7 +6,7 @@ class Queue{
     }
 
     enqueue(data){
-        this.list.insesrtAt(0, data);
+        this.list.insertAt(0, data);
     }
 
     dequeue(){
@@ -22,7 +22,7 @@ class Queue{
     }
 
     isEmpty(){
-        reutrn(this.list.count == 0);
+        return(this.list.count == 0);
     }
 
 }
